@@ -1,2 +1,3 @@
-# ecommerce-simple
-A simple Ecommerce Catalog
+# Ecommerce Catalog | React + Vite
+
+A simple E-commerce Catalog
